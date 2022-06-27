@@ -4,6 +4,7 @@ dependency:
 description: Shlongs of Skyrim for Skyrim Special Edition
 directory:
   target: Data
+  source: sse-sos-1.0.0
 # optional game metadata
 game:
   # optional, but best practice to include the game executable name
