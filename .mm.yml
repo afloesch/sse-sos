@@ -1,0 +1,19 @@
+# description is optional
+description: Shlongs of Skyrim for Skyrim Special Edition
+directory:
+  target: Data
+# optional game metadata
+game:
+  # optional, but best practice to include the game executable name
+  executable: SkyrimSE.exe
+  # gameVersion optional, defaults to all versions. Used to enforce game version compatibility between mods
+  version: "<=v1.5.97"
+# name is optional will default to the repo name
+name: SOS
+# mod ESRB rating. if none specified then mod is safe for all ages.
+rating:
+  esrb: AO # one of E, eC, E10+, T, M, AO
+# url optional for mod releases. defaults to releases archive
+url: "https://github.com/afloesch/sse-sos/archive/refs/tags/v1.0.0.zip"
+# version/tag required
+version: v1.0.0
