@@ -1,4 +1,6 @@
-# description is optional
+dependency:
+  afloesch/megamod/main/.skse.mm.yml: ">=v2.0.20"
+  afloesch/megamod/main/.skyui.mm.yml: ">=v0.1.0"
 description: Shlongs of Skyrim for Skyrim Special Edition
 directory:
   target: Data
