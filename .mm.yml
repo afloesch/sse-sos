@@ -17,6 +17,7 @@ name: SOS
 rating:
   esrb: AO # one of E, eC, E10+, T, M, AO
 # url optional for mod releases. defaults to releases archive
-url: "https://github.com/afloesch/sse-sos/archive/refs/tags/v1.0.0.zip"
+url: 
+  - "https://github.com/afloesch/sse-sos/archive/refs/tags/v1.0.0.zip"
 # version/tag required
 version: v1.0.0
